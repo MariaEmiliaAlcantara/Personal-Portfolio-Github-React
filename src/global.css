@@ -1,0 +1,30 @@
+:root {
+    --body-bg-color: #22212C;
+    --text-color: #837E9F;
+    --bg-cards: #302F3D;
+    --bg-techs: #CB92B1;
+    --green: #00FF00
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--body-bg-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+}
+
+body,
+input,
+textarea,
+button {
+  font-family: 'Merriweather Sans',
+    sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-color);
+}
