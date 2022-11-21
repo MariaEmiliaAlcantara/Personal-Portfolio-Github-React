@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
 - [Vite](https://vitejs.dev/)
 - [Axios](https://axios-http.com/ptbr/)
 
@@ -24,4 +25,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📷 Telas do aplicativo
 
 - ### Tela principal (redução no zoom par visualização de todos os elementos da página) 
-![portfolio-vite](https://user-images.githubusercontent.com/104785776/203166237-a04bd97e-9483-42bf-b7da-3dd66f3d7a39.png)
+![portfolio-vite](https://user-images.githubusercontent.com/104785776/203166911-b1649ba8-be86-4d51-bd97-ac27ea0122de.png)
+
