@@ -97,7 +97,7 @@ export const Main = () => {
         return "#F1E05A";
         break;
       case "Vue":
-        return "#000000";
+        return "#41B883";
         break;
       case "CSS":
         return "#563D7C";
